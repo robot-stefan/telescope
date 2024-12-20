@@ -46,6 +46,8 @@ Some of the 1st images captured with a cell phone and camera mount. More work ca
 | :---: | :---: | :---: |
 | ![image_of_jupiter](/images/jupiter.jpg) | ![image_of_moon](/images/moon3.jpg) | ![image_of_moon](/images/moon2.jpg) |
 
+At present the unit does not have a finder scope to aim to help with aiming. The inward curved sides can be used with some success to aim at targets. This along with the cell phone mounting is a current short coming of the system. A finder scope may be added in the future. The rails running along each corner were exposed in the design to allow for adding attachments. The adapter to attach to a tripod was connected to the telescope with the rails. 
+
 ### Camping Trip
 I was able to do a camping trip out to Camanche National Grasslands[^5] as part of road trip to Denver for a trade show. A number of sites in the grasslands feature very dark skies and minimal tree or tall terrain features providing a near unobstructed full 360 degree view of the sky in some of the darkest areas of the continental United States. No photos from the scope exist due to issues with the COTS phone mount. 
 
