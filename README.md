@@ -57,7 +57,7 @@ I was able to do a camping trip out to Camanche National Grasslands[^5] as part 
 
 [^1]: CAD = Computer Aided Design 
 [^2]: CAM = Computer Aided Machining / Manufacturing
-[^3]: TODO Paper on baffleing star tracker
+[^3]: [MERTIS - Reflective baffle design and manufacturing](https://www.nicoform.com/Images_Content/Site1/Files/Articles/MERTISReflectiveBaffleDesign.pdf)
 [^4]: [Dark Sky Map](https://www.darkskymap.com/)
 [^5]: [Comanche National Grasslands](https://www.fs.usda.gov/recarea/psicc/recarea/?recid=12409)
 
