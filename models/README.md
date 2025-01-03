@@ -43,9 +43,15 @@ Other Purchased Mechanical:
 - Heat Insert - 1/4-20 (McMaster-Carr 93365A162) (x1) (for tripod mount adapter)
 - Filament - Makeshaper Black PETG
 
+Key Tools:
+- 3d Printer (Prusa MK3S)
+- Hex key set (Home Depot HLAHKSM26PC)
+- Iron (Weller WLC100 | B000AS28UC)
+- Heat insert tips (92160A131,	92160A123, 92160A119)
+
 Procurment:
 - I had good success with many of the amazon warehouse / used options particularly for the Celestron branded parts. 
-- B######## Are the amazon ASIN numbers you will also see in them URL. They can be pasted into the search box.
+- B######## Are the amazon ASIN numbers. You will also see them in the URL and they can be pasted into the search box.
 
 [^1]: This part was dissassembled and portions of it were used.
 [^2]: Only around 1/2 were used during build up.
