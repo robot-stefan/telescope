@@ -38,9 +38,9 @@ Other Purchased Mechanical:
 - Fastener - SHCS - 4-40 x 3/8 in (McMaster-Carr 95868A258) (x4)
 - Adjustment Screws - 1/4-80 (McMaster-Carr 97424A620)
 - Heat Insert - M5 x 0.8 mm (McMaster-Carr 94180A361) (for primary mirror other fastener harware was reused)
-- Heat Insert - 1/4-80 (McMaster-Carr 98625A950) (x3)
 - Heat Insert - 4-40 (McMaster-Carr 93365A120) (x4)
 - Heat Insert - 1/4-20 (McMaster-Carr 93365A162) (x1) (for tripod mount adapter)
+- Insert  - 1/4-80 (McMaster-Carr 98625A950) (x3) [^3]
 - Filament - Makeshaper Black PETG
 
 Key Tools:
@@ -55,3 +55,4 @@ Procurment:
 
 [^1]: This part was dissassembled and portions of it were used.
 [^2]: Only around 1/2 were used during build up.
+[^3]: Not a heat or press fit. These slide in. If you end up using glue in your print only use a small amount. Glue wicking into an 80 thread per inch thread will prevent function. 
