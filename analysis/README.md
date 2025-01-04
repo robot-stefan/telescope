@@ -23,7 +23,7 @@ The appraoch while somewhat helpful has limitations and cannot readily answer mo
 3. Could the baffle benifit from simple geometric adjustments? 
 4. When light does make it the eyepeice how much energy does it have?
 
-The 4th question has some relevacne, if we were to put an imager at the eyepeice knowing something about the energy of stray rays might help us understand if that energy gets lost in the noise of the imager or if it is comparable to stars. However most of the imagers in the DIY / hobbyist realm aren't necessairly going to have exeptional low light performance and the population to select from isn't as varied.  
+The 4th question has some relevance, if we were to put an imager at the eyepeice knowing something about the energy of stray rays might help us understand if that energy gets lost in the noise of the imager or if it is comparable to stars. However most of the imagers in the DIY / hobbyist realm aren't necessairly going to have exeptional low light performance and the population to select from isn't as varied.  
 
 Other tools such as ray-optics[^2] and possibly solvers for openFOAM[^4] such as laserbeamFOAM may also present a way to investigate the baffled tube further. 
 
