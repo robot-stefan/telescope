@@ -5,6 +5,8 @@ Some quick highlights:
 -	can be printed in the volume of a Prusa MK3S or similarly sized printer
 -	is modular in construction allowing for disassembly
 
+> Note: If anyone is interested in a kit or having the prints shipped to them, feel free to contact me and I'll look into pricing. 
+
 ![screenshot_of_various_CAD_views](images/cad_views.png)
 
 ## Design
