@@ -2,6 +2,8 @@
 # A file to explore the telescopes layout by adjusting mirror sizing and placement.
 # There is corresponding jupyter notebook which has a few more comments and allows
 # for easier exploration. 
+# Sysetm info -> linux, libqt6
+# Python info -> 3.10.12 (venv), rayoptics 0.9.5, PyQt 6.8
 
 from rayoptics.environment import *
 from rayoptics.optical.opticalmodel import *
