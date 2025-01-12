@@ -2,7 +2,7 @@
 
 ![image_of_raytrace_OLF_B](RayTraceCenterLightSource.png)
 
-As mentioned in the overview the baffle design was done with manual geometric ray tracing in the top level sketches. The overall approach was inspire by the MERTIS paper (ref is in the primary README). There are limitations to the manual approach, but how good or good enough is it? 
+In the overview it was mentioend that the baffle design was done with manual geometric ray tracing in the top level sketches of the cad file. The overall approach was inspire by the MERTIS paper (ref is in the primary README). There are limitations to the manual approach, but how good or good enough is it? 
 
 While opensource ray tracing and optics design tools are not as well polished as commercial tools such as tracepro and zemax, there are options to look at the baffle design with ray tracing found in opensource rendering software. This approach can give us a comparison, but cannot give us exact info such as an easy way to observe the path of rays, energy in the rays, or a route to numerically compare the results. A qualitative and some what subjective approach can be attempted with tools such as Blender[^1] and LuxCoreRender[^2]. 
 
@@ -25,7 +25,7 @@ The approach while somewhat helpful has limitations and cannot readily answer mo
 
 The 4th question has some relevance, if we were to put an imager at the eyepiece knowing something about the energy of stray rays might help us understand if that energy gets lost in the noise of the imager or if it is comparable to stars. However most of the imagers in the DIY / hobbyist realm aren't necessarily going to have exceptional low light performance and the population to select from isn't as varied.  
 
-Other tools such as ray-optics[^3] and possibly solvers for openFOAM[^4] such as laserbeamFOAM may also present a way to investigate the baffled tube further.
+Other tools such as ray-optics[^3] and possibly solvers for openFOAM[^4] such as laserbeamFOAM may also present a way to investigate the baffled tube further. Files for both a [python script](PythonRayopticsTelescope.py) and a [jupyter notebook](PythonRayopticsTelescope.ipynb) using ray-optics are included. Each allows for investigating the layout and fundamental setup of the telescope, but not the baffles.     
 
 [^1]: [Blender](https://www.blender.org)
 [^2]: [LuxCoreRender](https://luxcorerender.org/)
